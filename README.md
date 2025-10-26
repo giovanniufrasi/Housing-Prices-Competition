@@ -1,28 +1,17 @@
 # Housing Prices Prediction
 
-This project implements a Random Forest Regression model to predict house prices based on structural and demographic property features. The dataset is taken from the [Home Data for ML Course](https://www.kaggle.com/competitions/home-data-for-ml-course) competition on Kaggle.
+This guided project implements a Random Forest Regression model to predict house prices based on structural and demographic property features. The dataset is taken from the [Home Data for ML Course](https://www.kaggle.com/competitions/home-data-for-ml-course) competition on Kaggle.
 
 ## Objective
 
 The goal of this project is to build, train, and evaluate a machine learning model capable of predicting the sale price of a house using a set of input features such as lot size, year built, number of rooms, and bathrooms.
 
-## Technologies Used
+## Libraries
 
-- Python 3
 - Pandas for data manipulation
 - Scikit-learn for machine learning
 - RandomForestRegressor as the main model
 
-## Project Structure
-
-housing-prices-ml/
-│
-├── data/ # Contains the training and test CSV files (not uploaded to GitHub)
-│
-├── src/
-│ └── run_model.py # Main script for training and generating predictions
-│
-└── submission.csv # Model predictions (generated automatically)
 
 ##Example Output
 
