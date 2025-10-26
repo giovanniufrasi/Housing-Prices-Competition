@@ -13,7 +13,7 @@ The goal of this project is to build, train, and evaluate a machine learning mod
 - RandomForestRegressor as the main model
 
 
-##Example Output
+## Example Output
 
 When executed, the script prints the validation MAE (Mean Absolute Error) and creates the submission file:
 
